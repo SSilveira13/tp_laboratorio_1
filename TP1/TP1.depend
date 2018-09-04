@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1536080942 source:c:\users\santiago\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculos.h"
+	"Entradas.h"
+
+1536081018 c:\users\santiago\desktop\tp1\calculos.h
+
+1536081018 source:c:\users\santiago\desktop\tp1\bibliotecas\calculos.c
+	<stdio.h>
+	"Calculos.h"
+
+1536081018 c:\users\santiago\desktop\tp1\bibliotecas\calculos.h
+
+1536073466 source:c:\users\santiago\desktop\tp1\bibliotecas\entradas.c
+	<stdio.h>
+	"Entradas.h"
+
+1536040078 c:\users\santiago\desktop\tp1\bibliotecas\entradas.h
+
+1536040078 c:\users\santiago\desktop\tp1\entradas.h
+
