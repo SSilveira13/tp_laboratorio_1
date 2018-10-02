@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1538440572 source:d:\santiago silveira\recursando-master\tp_2\tp_2\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ABM.h"
+
+1538440338 d:\santiago silveira\recursando-master\tp_2\tp_2\abm.h
+
+1538439636 source:d:\santiago silveira\recursando-master\tp_2\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ABM.h"
+
